@@ -1,0 +1,6 @@
+{
+  "name": "Astroverse",
+  "description": "Interactive open-source astronomy encyclopedia, 3D celestial simulations, star charts, AR night-sky viewer, and cosmic observation logbook.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
